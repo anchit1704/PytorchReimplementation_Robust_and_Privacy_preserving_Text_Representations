@@ -1,8 +1,8 @@
 PyTorch ReImplementations for ''Towards Robust and Privacy-preserving Text Representations'' Sentiment Analysis section.
 
-##Original Project
+## Original Project
 
-###Paper
+### Paper
 
 Li, Yitong, Timothy Baldwin, and Trevor Cohn.- [Towards Robust and Privacy-preserving Text Representations](https://aclanthology.org/P18-2005.pdf) Proc. NAACL-HLT. 2018
 
