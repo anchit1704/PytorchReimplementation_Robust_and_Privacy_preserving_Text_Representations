@@ -10,6 +10,6 @@ Li, Yitong, Timothy Baldwin, and Trevor Cohn.- [Towards Robust and Privacy-prese
 
 [https://github.com/lrank/Robust_and_Privacy_preserving_Text_Representations](https://github.com/lrank/Robust_and_Privacy_preserving_Text_Representations)
 
-#### A pytorch implementation by Xudong
+#### A pytorch implementation of POSTAG section by Xudong
 
 [https://github.com/HanXudong/ReImplementation_Robust_and_Privacy_preserving_Text_Representations](https://github.com/HanXudong/ReImplementation_Robust_and_Privacy_preserving_Text_Representations)
